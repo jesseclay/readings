@@ -1,6 +1,6 @@
 # Software Engineering At Google
 ### By Fergus Henderson
-[PDF]((https://arxiv.org/pdf/1702.01715.pdf)
+[PDF](https://arxiv.org/pdf/1702.01715.pdf)
 
 (these are all quotes from the article)
 
